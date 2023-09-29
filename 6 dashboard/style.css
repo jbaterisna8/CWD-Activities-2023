@@ -1,0 +1,32 @@
+
+h1, h2, h3, h4, h5, h6 {font-weight: 200;
+}
+
+
+.dashboard-title {
+    font-weight: 500;
+}
+
+a, .footer-text {
+    font-weight: 100;
+    font-size: small;
+}
+
+.card-value {
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.fa-angle-up {
+    margin-right: 5px;
+}
+
+.fa-angle-down {
+    margin-right: 5px;
+}
+
+.sidenav-logo {
+    padding-top: 18px;
+}
+
+
